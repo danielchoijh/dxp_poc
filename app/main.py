@@ -5,7 +5,7 @@ st.set_page_config(page_title="Hello DXP!", page_icon="✨")
 
 # 헤더
 st.title("🐣  DXP PoC Mini App")
-st.caption("귀엽고 작동만 잘하는 Streamlit 샘플")
+st.caption("작동만 되면 되는 프로젝트")
 
 # 인풋 → 즉시 반응
 name = st.text_input("What's your name?", "종호")
